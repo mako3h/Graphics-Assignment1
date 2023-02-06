@@ -52,3 +52,5 @@ I added the rim lighting shader to a material and that matieral to the flying or
 How it works: This shader takes two textures as imputs and uses a sampler 2D to sample the color information from both of them. The diffuse texture provides the base color information which is the albedo value and the myBump texture provides the surface normal information and is used to add the illusion of bumpy-ness to the surface. The mySlider then is able to control the intensity of how bumpy the surface will be. 
 
 I added the bump diffuse shader to a material, and that material onto the outer tall walls 
+
+# Video Report is in a folder called "Video Report"
